@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="679" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Thu Nov 21 12:42:54 2024
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Fnix_AL3</m>
+<m key="dc.date">Thu Nov 21 12:42:54 2024
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="4290" last-saved="1732189374" uid="c1b48036-a7f3-11ef-9ae2-e3e28fefb79e">
+<version id="1" started="1732189374" uid="beb77924-a7fd-11ef-9ae2-e3e28fefb79e" auto="0" top-xid="679"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+<s type="P" name="Body Text" basedon="Normal" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s followedby="Normal" name="CV Heading 3" basedon="Normal" type="P" props="text-align:right; lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s type="P" name="CV Major" basedon="Normal" props="lang:es-ES; font-weight:bold; font-family:Arial; font-size:12pt"/>
+<s type="P" name="Caption" basedon="Normal" props="lang:es-ES; margin-top:0.0826in; font-size:12pt; margin-bottom:0.0826in; font-family:Arial; font-style:italic"/>
+<s type="P" name="Europass_SectionDetails" basedon="Normal" props="lang:es-ES; margin-top:0.0139in; font-size:9pt; margin-bottom:0.0278in; font-family:Arial"/>
+<s type="P" name="Footer" basedon="Normal" props="tabstops:1.968750in/R0,7.085417in/R0"/>
+<s type="P" name="Footer left" basedon="Normal" props="lang:es-ES; tabstops:3.602778in/C0,7.205556in/C0; font-family:Arial; font-size:8pt"/>
+<s type="P" name="Footer right" basedon="Normal" props="lang:es-ES; tabstops:3.602778in/C0,7.205556in/C0; font-family:Arial; font-size:8pt"/>
+<s type="P" name="Header" basedon="Normal" props="lang:es-ES; tabstops:3.543750in/C0,7.087500in/C0; font-family:Arial; font-size:8pt"/>
+<s followedby="Body Text" name="Heading" basedon="Normal" type="P" props="lang:es-ES; margin-top:0.1667in; font-size:14pt; margin-bottom:0.0826in; font-family:Arial"/>
+<s type="P" name="Index" basedon="Normal" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s type="P" name="List" basedon="Body Text" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s type="P" name="Table" basedon="Caption" props="lang:es-ES; margin-top:0.0826in; font-size:12pt; margin-bottom:0.0826in; font-family:Arial; font-style:italic"/>
+<s followedby="Footnote Text" name="Table Contents" basedon="Normal" type="P" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s type="P" name="Table Heading" basedon="Footnote Text" props="text-align:center; lang:es-ES; font-weight:bold; font-family:Arial; font-size:8pt"/>
+<s type="P" name="Table Normal" props="lang:es-ES; font-weight:bold; font-family:Arial; font-size:14pt; font-style:italic"/>
+<s type="P" name="_ECV_1stPage" basedon="_ECV_RightHeading" props="tabstops:1.968750in/L0,7.085417in/L0; margin-top:0.1389in"/>
+<s type="P" name="_ECV_Attachment" basedon="_ECV_SectionDetails" props="text-align:right; lang:es-ES; margin-top:0.0139in; font-size:9pt; font-family:Arial"/>
+<s type="P" name="_ECV_BlueBox" basedon="_ECV_NarrowSpacing" props="text-align:right"/>
+<s type="P" name="_ECV_BusinessSctionRow" basedon="Normal" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s type="P" name="_ECV_BusinessSector" basedon="Endnote Text" props="lang:es-ES; margin-top:0.0688in; font-size:9pt; font-family:Arial"/>
+<s type="P" name="_ECV_BusinessSectorRow" basedon="Normal" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s followedby="Footnote Reference" name="_ECV_Comments" basedon="_ECV_Text" type="P" props="text-align:center"/>
+<s type="P" name="_ECV_ContactDetails" basedon="_ECV_NameField" props="lang:es-ES; font-size:9pt; font-family:Arial"/>
+<s type="P" name="_ECV_CurriculumVitae_NextPages" basedon="_ECV_1stPage" props="text-align:right; margin-top:0.0965in; tabstops:1.968750in/L0,7.187500in/R0"/>
+<s followedby="Numbered List" name="_ECV_Date" basedon="_ECV_LeftHeading" type="P" props="text-align:right; margin-top:0.0139in"/>
+<s type="P" name="_ECV_GenderRow" basedon="Normal" props="margin-top:0.0556in"/>
+<s type="P" name="_ECV_HeaderFirstPage" basedon="Header" props="tabstops:1.968750in/C0,3.543750in/C0,7.087500in/C0"/>
+<s type="P" name="_ECV_HeaderOtherPage" basedon="_ECV_HeaderFirstPage" props="tabstops:1.968750in/C0,3.543750in/C0,7.087500in/C0"/>
+<s type="P" name="_ECV_HeadingBullet" basedon="_ECV_LeftHeading" props="text-align:right"/>
+<s props="" name="_ECV_HeadingLine" basedon="Endnote Reference" type="P"/>
+<s type="P" name="_ECV_LanguageCertificate" basedon="_ECV_RightColumn" props="text-align:center; lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s props="" name="_ECV_LanguageExplanation" basedon="Normal" type="P"/>
+<s type="P" name="_ECV_LanguageHeading" basedon="_ECV_RightColumn" props="text-align:center"/>
+<s type="P" name="_ECV_LanguageLevel" basedon="_ECV_SectionDetails" props="text-align:center; lang:es-ES; margin-top:0.0139in; font-size:9pt; font-family:Arial"/>
+<s type="P" name="_ECV_LanguageName" basedon="_ECV_LanguageCertificate" props="text-align:right; lang:es-ES; font-size:9pt; font-family:Arial"/>
+<s type="P" name="_ECV_LanguageSubHeading" basedon="_ECV_LanguageHeading" props="text-align:center"/>
+<s type="P" name="_ECV_LeftDetails" basedon="_ECV_LeftHeading" props="text-align:right; margin-top:0.0139in"/>
+<s type="P" name="_ECV_LeftHeading" basedon="Footnote Text" props="text-align:right"/>
+<s type="P" name="_ECV_Links" basedon="_ECV_ContactDetails" props="lang:es-ES; font-size:9pt; font-family:Arial"/>
+<s props="" name="_ECV_MiddleColumn" basedon="Footnote Text" type="P"/>
+<s type="P" name="_ECV_NameField" basedon="_ECV_RightColumn" props="lang:es-ES; font-size:13pt; font-family:Arial"/>
+<s type="P" name="_ECV_NarrowSpacing" basedon="_ECV_RightColumn" props="margin-top:0.0417in"/>
+<s type="P" name="_ECV_OccupationalFieldHeading" basedon="_ECV_LeftHeading" props="text-align:right; margin-top:0.0278in"/>
+<s followedby="Endnote Text" name="_ECV_OrganisationDetails" basedon="_ECV_RightColumn" type="P" props="lang:es-ES; margin-top:0.0278in; font-size:9pt; margin-bottom:0.0556in; font-family:Arial"/>
+<s type="P" name="_ECV_PersonalInfoHeading" basedon="_ECV_LeftHeading" props="text-align:right; margin-top:0.0278in"/>
+<s type="P" name="_ECV_RelatedDocumentRow" basedon="_ECV_BusinessSectorRow" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s type="P" name="_ECV_RightColumn" basedon="Footnote Text" props="margin-top:0.0417in"/>
+<s type="P" name="_ECV_RightHeading" basedon="_ECV_NameField" props="text-align:right; margin-top:0.0417in"/>
+<s type="P" name="_ECV_SectionBullet" basedon="_ECV_SectionDetails" props="lang:es-ES; font-size:9pt; font-family:Arial"/>
+<s type="P" name="_ECV_SectionDetails" basedon="Normal" props="lang:es-ES; margin-top:0.0139in; font-size:9pt; font-family:Arial"/>
+<s type="P" name="_ECV_SectionSpacing" basedon="_ECV_RightColumn" props="margin-top:0.0417in"/>
+<s type="P" name="_ECV_SubHeadingBullet" basedon="_ECV_LeftDetails" props="text-align:right"/>
+<s type="P" followedby="Endnote Reference" name="_ECV_SubSectionHeading" basedon="_ECV_RightColumn" props=""/>
+<s type="P" name="_ECV_Text" basedon="Body Text" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+<s type="P" name="_ESP_1stPage" basedon="_ECV_CurriculumVitae_NextPages" props="text-align:right; margin-top:0.0965in; tabstops:1.968750in/L0,7.187500in/R0"/>
+<s type="P" name="_ESP_Heading" basedon="_ESP_Text" props="lang:es-ES; font-weight:bold; font-family:Arial; font-size:16pt"/>
+<s type="P" name="_ESP_Text" basedon="_ECV_Text" props="lang:es-ES; font-size:8pt; font-family:Arial"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="98" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="99"><c props="font-weight:bold; color:ff9900">Currículum Vítae     </c><c>                                                                       </c><c props="color:ff9900">  Alejandro Vallecillo Vaca</c></p>
+<p style="Normal" xid="1"></p>
+<p style="Normal" xid="174"></p>
+<table xid="175" props="table-row-heights:0.37cm/0.37cm/0.37cm/0.37cm/0.50cm/0.37cm/0.37cm/0.37cm/0.37cm/0.50cm/; table-column-props:7.87cm/7.24cm/">
+<cell xid="176" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="177"><c props="font-size:9pt; color:0000ff">INFORMACIÓN PERSONAL</c></p>
+</cell>
+<cell xid="179" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="180"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="182" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="183" props="text-align:right"><c props="font-size:9pt; color:00ccff">Nombre:      </c><c props="font-size:9pt">                               </c></p>
+</cell>
+<cell xid="185" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="186"><c props="font-size:9pt">Alejandro Vallecillo Vaca</c></p>
+</cell>
+<cell xid="188" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="189" props="text-align:right"><c props="font-size:9pt; color:00ccff">Dirección:       </c><c props="font-size:9pt">                           </c></p>
+</cell>
+<cell xid="191" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="192"><c props="font-size:9pt">C/ Miguel de Cervantes, 4, 07730, Alaior, España.</c></p>
+</cell>
+<cell xid="194" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="195" props="text-align:right"><c props="font-size:9pt; color:00ccff">Tel.                                             </c></p>
+</cell>
+<cell xid="197" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="198"><c props="font-size:9pt">+34 618 89 99 21</c></p>
+</cell>
+<cell xid="200" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="201" props="text-align:right"><c props="font-size:9pt; color:00ccff">Correo Electrónico:                   </c></p>
+</cell>
+<cell xid="203" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p style="Normal" xid="204"><c props="font-size:9pt">fnix.al3@gmail.com</c></p>
+</cell>
+<cell xid="206" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
+<p style="Normal" xid="207" props="text-align:right"><c props="font-size:9pt; color:00ccff">Redes Sociales:                          </c></p>
+</cell>
+<cell xid="209" props="bot-attach:6; left-attach:1; right-attach:2; top-attach:5">
+<p style="Normal" xid="210"><c props="font-size:9pt">https://www.instagram.com/fnix_al3/</c></p>
+</cell>
+<cell xid="212" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
+<p style="Normal" xid="213" props="text-align:right"><c props="font-size:9pt; color:00ccff">Tipo de Mensajería Instantánea:</c></p>
+</cell>
+<cell xid="215" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
+<p style="Normal" xid="216"><c props="font-size:9pt">WhatsApp</c></p>
+</cell>
+<cell xid="218" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
+<p style="Normal" xid="219" props="text-align:right"><c props="font-size:9pt; color:00ccff">Sexo:                                          </c></p>
+</cell>
+<cell xid="221" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
+<p style="Normal" xid="222"><c props="font-size:9pt">Masculino</c></p>
+</cell>
+<cell xid="224" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
+<p style="Normal" xid="225" props="text-align:right"><c props="font-size:9pt; color:00ccff">Fecha de Nacimiento:                </c></p>
+</cell>
+<cell xid="227" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
+<p style="Normal" xid="228"><c props="font-size:9pt">19/07/2007</c></p>
+</cell>
+<cell xid="230" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
+<p style="Normal" xid="231" props="text-align:right"><c props="font-size:9pt; color:00ccff">Nacionalidad:                             </c></p>
+</cell>
+<cell xid="233" props="bot-attach:10; left-attach:1; right-attach:2; top-attach:9">
+<p style="Normal" xid="234"><c props="font-size:9pt">Española, Boliviana.</c></p>
+</cell>
+</table>
+<p style="Normal" xid="173"></p>
+<table xid="252">
+<cell xid="253" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="254"><c props="font-size:9pt; color:0000ff">OBJETIVO PROFESIONAL:</c></p>
+</cell>
+<cell xid="256" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="257"><c props="font-size:9pt">Lograr alcanzar un gran nivel en programación, como adquirir conocimiento mediante la experiencia laboral.</c></p>
+</cell>
+</table>
+<p style="Normal" xid="251" props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal"></p>
+<table xid="269">
+<cell xid="270" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="271" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; color:0000ff; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">EXPERIENCIA LABORAL:</c></p>
+</cell>
+<cell xid="273" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="274" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Sin experiencia</c></p>
+</cell>
+</table>
+<p style="Normal" xid="277" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:es-ES; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"></p>
+<table xid="342">
+<cell xid="343" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="344"><c props="font-size:9pt; color:0000ff">EDUCACIÓN Y FORMACIÓN:</c></p>
+</cell>
+<cell xid="346" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="347"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="349" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="350"><c props="font-size:9pt; font-weight:bold; color:ff0000">2018-2022</c></p>
+</cell>
+<cell xid="352" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="353"><c props="font-weight:bold; font-size:9pt">Educación Secundaria Obligatoria (ESO)</c></p>
+</cell>
+<cell xid="355" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="356"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="358" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="359"><c props="font-size:9pt">- Título de la ESO</c></p>
+</cell>
+<cell xid="361" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="362"></p>
+</cell>
+<cell xid="364" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="365"><c props="font-size:9pt">- Título nivel Catalán B1</c></p>
+</cell>
+<cell xid="367" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="368"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="370" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p style="Normal" xid="371"><c props="font-size:9pt">- Título nivel Inglés B1 (EOIES)</c></p>
+</cell>
+<cell xid="373" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
+<p style="Normal" xid="374"><c props="font-size:9pt; font-weight:bold; color:ff0000">2024-2026</c></p>
+</cell>
+<cell xid="376" props="bot-attach:6; left-attach:1; right-attach:2; top-attach:5">
+<p style="Normal" xid="377"><c props="font-weight:bold; font-size:9pt">FP GM Sistemas Microinformáticos y Redes</c></p>
+</cell>
+<cell xid="379" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
+<p style="Normal" xid="380"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="382" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
+<p style="Normal" xid="383"><c props="font-size:9pt">- Título de GM SMX (En proceso)</c></p>
+</cell>
+<cell xid="385" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
+<p style="Normal" xid="386"><c props="font-size:9pt; font-weight:bold; color:ff0000">2023-2024</c></p>
+</cell>
+<cell xid="388" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
+<p style="Normal" xid="389"><c props="font-weight:bold; font-size:9pt">Escuela EOIES Mahón</c></p>
+</cell>
+<cell xid="391" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
+<p style="Normal" xid="392"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="394" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
+<p style="Normal" xid="395"><c props="font-size:9pt">- Título nivel Inglés B2.1</c></p>
+</cell>
+<cell xid="397" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
+<p style="Normal" xid="398"><c props="font-size:9pt; font-weight:bold; color:ff0000">2024-2025</c></p>
+</cell>
+<cell xid="400" props="bot-attach:10; left-attach:1; right-attach:2; top-attach:9">
+<p style="Normal" xid="401"><c props="font-weight:bold; font-size:9pt">Escuela EOIES Mahón</c></p>
+</cell>
+<cell xid="403" props="bot-attach:11; left-attach:0; right-attach:1; top-attach:10">
+<p style="Normal" xid="404"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="406" props="bot-attach:11; left-attach:1; right-attach:2; top-attach:10">
+<p style="Normal" xid="407"><c props="font-size:9pt">-Título nivel Inglés B2.2 (En proceso)</c></p>
+</cell>
+</table>
+<p style="Normal" xid="278" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:es-ES; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"></p>
+<p style="Normal" xid="501" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:es-ES; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"></p>
+<table xid="503" props="table-row-heights:0.50cm/0.62cm/; table-sdh:0x5cbf21ab36b0">
+<cell xid="504" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="505" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; color:0000ff; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">COMPETENCIAS PERSONALES</c></p>
+</cell>
+<cell xid="507" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p xid="508"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="510" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="511" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Lengua materna:</c></p>
+</cell>
+<cell xid="513" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="514" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Español (España)</c></p>
+</cell>
+</table>
+<p xid="517"></p>
+<table xid="562">
+<cell xid="563" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="564" props="font-family:Times New Roman; font-size:12pt; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-size:9pt; color:00ccff">Otros Idiomas</c></p>
+</cell>
+<cell xid="672" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="673" props="font-family:Times New Roman; font-size:12pt; lang:es-ES; font-weight:normal; text-position:normal; text-align:right; font-style:normal; text-decoration:none"><c props="font-size:9pt; color:00ccff">Compr</c></p>
+</cell>
+<cell xid="674" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p style="Normal" xid="675" props="font-family:Times New Roman; font-size:12pt; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-size:9pt; color:00ccff">ender</c></p>
+</cell>
+<cell xid="676" props="bot-attach:1; left-attach:3; right-attach:4; top-attach:0">
+<p style="Normal" xid="677" props="text-align:right"><c props="font-size:9pt; color:00ccff">Hab</c></p>
+</cell>
+<cell xid="575" props="bot-attach:1; left-attach:4; right-attach:5; top-attach:0">
+<p style="Normal" xid="576"><c props="font-size:9pt; color:00ccff">lar</c></p>
+</cell>
+<cell xid="578" props="bot-attach:1; left-attach:5; right-attach:6; top-attach:0">
+<p style="Normal" xid="579"><c props="font-size:9pt; color:00ccff">Expresión Escrita</c></p>
+</cell>
+<cell xid="581" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="582"><c props="font-size:9pt; color:00ccff"></c></p>
+</cell>
+<cell xid="584" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="585"><c props="font-size:9pt; color:00ccff">Comprensión Auditiva</c></p>
+</cell>
+<cell xid="678" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p style="Normal" xid="679"><c props="font-size:9pt; color:00ccff">Comprensión de Lectura</c></p>
+</cell>
+<cell xid="590" props="bot-attach:2; left-attach:3; right-attach:4; top-attach:1">
+<p style="Normal" xid="591"><c props="font-size:9pt; color:00ccff">Interacción Oral</c></p>
+</cell>
+<cell xid="593" props="bot-attach:2; left-attach:4; right-attach:5; top-attach:1">
+<p style="Normal" xid="594"><c props="font-size:9pt; color:00ccff">Expresión Oral</c></p>
+</cell>
+<cell xid="596" props="bot-attach:2; left-attach:5; right-attach:6; top-attach:1">
+<p style="Normal" xid="597"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="599" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="600"><c props="font-size:9pt; font-weight:bold; color:ff0000">Catalán</c></p>
+</cell>
+<cell xid="602" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="603"><c props="font-size:9pt">B1</c></p>
+</cell>
+<cell xid="605" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p style="Normal" xid="606"><c props="font-size:9pt">B1</c></p>
+</cell>
+<cell xid="608" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
+<p style="Normal" xid="609"><c props="font-size:9pt">B1</c></p>
+</cell>
+<cell xid="611" props="bot-attach:3; left-attach:4; right-attach:5; top-attach:2">
+<p style="Normal" xid="612"><c props="font-size:9pt">B1</c></p>
+</cell>
+<cell xid="614" props="bot-attach:3; left-attach:5; right-attach:6; top-attach:2">
+<p style="Normal" xid="615"><c props="font-size:9pt">B1</c></p>
+</cell>
+<cell xid="617" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="618"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="620" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="621"><c props="font-size:9pt">Título Catalán B1</c></p>
+</cell>
+<cell xid="623" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p style="Normal" xid="624"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="626" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
+<p style="Normal" xid="627"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="629" props="bot-attach:4; left-attach:4; right-attach:5; top-attach:3">
+<p style="Normal" xid="630"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="632" props="bot-attach:4; left-attach:5; right-attach:6; top-attach:3">
+<p style="Normal" xid="633"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="635" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="636"><c props="font-size:9pt; font-weight:bold; color:ff0000">Inglés</c></p>
+</cell>
+<cell xid="638" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p style="Normal" xid="639"><c props="font-size:9pt">B2.1</c></p>
+</cell>
+<cell xid="641" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
+<p style="Normal" xid="642"><c props="font-size:9pt">B2.1</c></p>
+</cell>
+<cell xid="644" props="bot-attach:5; left-attach:3; right-attach:4; top-attach:4">
+<p style="Normal" xid="645"><c props="font-size:9pt">B2.1</c></p>
+</cell>
+<cell xid="647" props="bot-attach:5; left-attach:4; right-attach:5; top-attach:4">
+<p style="Normal" xid="648"><c props="font-size:9pt">B2.1</c></p>
+</cell>
+<cell xid="650" props="bot-attach:5; left-attach:5; right-attach:6; top-attach:4">
+<p style="Normal" xid="651"><c props="font-size:9pt">B2.1</c></p>
+</cell>
+<cell xid="653" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
+<p style="Normal" xid="654"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="656" props="bot-attach:6; left-attach:1; right-attach:2; top-attach:5">
+<p style="Normal" xid="657"><c props="font-size:9pt">Título Inglés B2.1</c></p>
+</cell>
+<cell xid="659" props="bot-attach:6; left-attach:2; right-attach:3; top-attach:5">
+<p style="Normal" xid="660"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="662" props="bot-attach:6; left-attach:3; right-attach:4; top-attach:5">
+<p style="Normal" xid="663"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="665" props="bot-attach:6; left-attach:4; right-attach:5; top-attach:5">
+<p style="Normal" xid="666"><c props="font-size:9pt"></c></p>
+</cell>
+<cell xid="668" props="bot-attach:6; left-attach:5; right-attach:6; top-attach:5">
+<p style="Normal" xid="669"><c props="font-size:9pt"></c></p>
+</cell>
+</table>
+<p xid="561"></p>
+<p xid="519"></p>
+<p xid="520"></p>
+</section>
+</abiword>
